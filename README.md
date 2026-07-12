@@ -49,7 +49,5 @@ A built-in simulator tool allowing administrators to query a specific `TeacherID
 ## 🚀 Getting Started
 
 ### Prerequisites
-To interact with or run analytics on the source sheets, ensure you have one of the following setups:
 * **Microsoft Excel** (2021 or later for fully optimized Pivot Charts/Dashboards)
   ```bash
-  pip install pandas openpyxl matplotlib
