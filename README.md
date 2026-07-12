@@ -50,4 +50,3 @@ A built-in simulator tool allowing administrators to query a specific `TeacherID
 
 ### Prerequisites
 * **Microsoft Excel** (2021 or later for fully optimized Pivot Charts/Dashboards)
-  ```bash
