@@ -44,6 +44,8 @@ A built-in simulator tool allowing administrators to query a specific `TeacherID
 * Live utilization metrics.
 * Room allocations and assigned subject mappings.
 
+### 4. Macro Enabled Workbook
+A built-in button which allows the user to **refresh the dashboard** and **clear the filters of the dashboard**.
 ---
 
 ## 🚀 Getting Started
