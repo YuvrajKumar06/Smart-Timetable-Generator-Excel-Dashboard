@@ -46,6 +46,7 @@ A built-in simulator tool allowing administrators to query a specific `TeacherID
 
 ### 4. Macro Enabled Workbook
 A built-in button which allows the user to **refresh the dashboard** and **clear the filters of the dashboard**.
+
 ---
 
 ## 🚀 Getting Started
