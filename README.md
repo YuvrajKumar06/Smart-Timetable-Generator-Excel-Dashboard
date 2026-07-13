@@ -1,3 +1,6 @@
+<img width="868" height="602" alt="Dashboard" src="https://github.com/user-attachments/assets/d6424a51-f489-4aa3-8c5b-039063202b50" />
+
+
 # Smart Timetable Dashboard
 
 An automated, data-driven scheduling and resource management dashboard designed to optimize university timetables. This project processes relational data across teachers, classes, rooms, and subjects to maximize resource utilization, track workloads, and eliminate scheduling conflicts.
@@ -7,6 +10,7 @@ An automated, data-driven scheduling and resource management dashboard designed 
 ## 📊 Project Overview
 
 Managing academic timetables involves complex constraints—balancing teacher availability, matching room capacities with class sizes, and ensuring fair workload distribution. The **Smart Timetable Dashboard** serves as a centralized operational tool to monitor, analyze, and simulate these parameters seamlessly.
+
 
 ### Key Performance Indicators (KPIs)
 * **Total Capacity Managed:** 20 Teachers, 30 Subjects, 20 Classes, and 15 Rooms.
